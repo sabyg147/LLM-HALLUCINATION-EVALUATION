@@ -128,4 +128,4 @@ hallucinated? → 🔍 RAG ChromaDB (last resort)
 
 ---
 
-*V1 built at 6AM after a sleepless night. V2 built the next day. Still going. 😄*
+
