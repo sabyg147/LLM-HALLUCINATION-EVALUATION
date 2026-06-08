@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+requests
+sentence-transformers
+datasets
+pandas
+langchain-chroma
+langchain-huggingface
+langchain-core
+chromadb
