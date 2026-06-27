@@ -115,7 +115,7 @@ hallucinated? → 🔍 RAG ChromaDB (last resort)
 
 - [x] V1 — Benchmarking pipeline
 - [x] V2 — RAG + LangGraph self-healing agent
-- [ ] V3 — Streamlit frontend
+- [x] V3 — Streamlit frontend
 - [ ] V4 — Docker deployment
 - [ ] V5 — Scale to full 817 questions
 
